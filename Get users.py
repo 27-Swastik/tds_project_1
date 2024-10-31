@@ -2,7 +2,7 @@ import aiohttp
 import asyncio
 import pandas as pd
 
-token = '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//'
+token = '//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//'
 headers = {'Authorization': f'token {token}'}
 base_url = 'https://api.github.com'
 
