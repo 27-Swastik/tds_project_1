@@ -1,5 +1,6 @@
 # tds_project_1
 
+# THE PROCESS
 To scrape the data, I followed these steps:
 1. GitHub Access Token: Generated a personal access token from GitHub for authentication to the API. This token allows access to user data while adhering to rate limits.
 
